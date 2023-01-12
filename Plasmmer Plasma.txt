@@ -7,6 +7,17 @@ https://www.google.com/search?q=Arduino+read+Aa+battery+percent&oq=Arduino+read+
 - Argile case
 - Use phone batteries, rechargeable
 - rpi, with SIM slot
-- cam
+- cam, VR app
 -
 - collision sensor, converts into gamepad vb
+
+Plasmmer Plasma common for all versions:
+- dont make it a budget car; that would be considered a threat
+- hybrid energy model: electricity and CO2 derivatives: methanol or even synfuels (ref: https://theconversation.com/five-ways-to-turn-co-from-pollution-to-a-valuable-product-129499)
+https://www.google.com/search?client=firefox-b-d&q=car+captures+CO2
+https://www.sciencefocus.com/future-technology/why-dont-cars-use-carbon-capture/
+https://www.cnet.com/science/this-car-cleans-the-atmosphere-while-driving/
+https://www.energymonitor.ai/sectors/automotive/dutch-students-develop-car-that-actually-captures-co2/
+https://innovationorigins.com/en/selected/tu-eindhoven-students-develop-a-passenger-car-that-captures-more-co%E2%82%82-than-it-emits-while-driving/
+https://www.aramco.com/en/creating-value/technology-development/transport-technologies/mobile-carbon-capture
+https://sciworthy.com/new-materials-can-capture-carbon-from-car-exhaust-systems/
